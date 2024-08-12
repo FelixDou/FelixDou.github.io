@@ -7,42 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-My name is Félix Doublet and I am currently doing research about AI. I am a Master student in the [SMILAB lab](https://smilab.org/en/) at the Keio University.
+# Welcome to My Personal Website
 
-# A data-driven personal website
+My name is Félix Doublet, and I am currently pursuing my passion for Artificial Intelligence through research at the [SMILAB lab](https://smilab.org/en/) at Keio University, where I am a Master's student. My journey in AI is driven by a curiosity to understand the intersection between human cognition and machine intelligence. This website serves as a window into my research, thoughts, and ongoing projects in the realm of AI.
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## Background
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I am currently a Master’s student at Keio University, where I am involved in cutting-edge AI research at the SMILAB lab. My academic background is deeply rooted in engineering, where I have focused on the intricacies of machine learning and its applications. My studies have equipped me with a solid foundation in both the theoretical and practical aspects of AI, which I continue to build upon through my research.
 
-# Getting started
+Throughout my academic journey, I have had the privilege of working on several interdisciplinary projects that bridge the gap between AI and other fields, such as neuroscience and cognitive science. These experiences have enriched my understanding of how AI can be used to model complex systems and contribute to a broader understanding of intelligence, both artificial and human.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## What I Like
 
-## Site-wide configuration
+Beyond the realm of academia and research, I have a diverse set of interests that keep me grounded and inspired. I am passionate about exploring the ethical dimensions of AI, particularly how technology intersects with society and the implications of AI on our future.
 
-The main configuration file for the site is in the base directory in [\_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [\_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
+In my free time, I enjoy delving into philosophical literature, which often informs my perspective on AI and the nature of consciousness. I am also an avid coder, constantly experimenting with new algorithms and technologies to push the boundaries of what is possible.
 
-## Create content & metadata
+When I'm not engrossed in research or coding, I like to unwind by exploring nature, which provides me with a much-needed balance to the fast-paced world of AI. Whether it's hiking, reading, or simply reflecting on the deeper questions of life, these activities fuel my creativity and passion for my work.
 
-For site content, there is one markdown file for each type of content, which are stored in directories like \_publications, \_talks, \_posts, \_teaching, or \_pages. For example, each talk is a markdown file in the [\_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the \_talks directory).
+## The Intersection of Thought and Machine
 
-**Markdown generator**
+Artificial Intelligence is not just a field of study—it's a frontier where philosophy meets engineering, where our deepest questions about existence, consciousness, and the nature of thought are explored through algorithms and data.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+As we push the boundaries of what machines can learn and do, we are confronted with profound questions: Can a machine truly think, or are we simply building increasingly complex reflections of our own minds? What does it mean for a machine to "understand"? Is there a future where AI transcends its creators, evolving beyond human comprehension?
 
-## How to edit your site's GitHub repository
+AI challenges us to rethink what it means to be human. In a world where machines can mimic human behavior, the uniqueness of our own consciousness becomes both more apparent and more mysterious. Are we on the brink of creating a new form of life, or merely sophisticated tools? These are the questions that drive my research and ignite my curiosity.
 
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-## For more info
-
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Through my work, I aim to contribute to the understanding of AI not only as a technical discipline but also as a philosophical exploration. I invite you to join me on this journey, as we delve into the fascinating and often unsettling world of Artificial Intelligence.

@@ -9,40 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- Master Degree in the [SMILAB lab](https://smilab.org/en/), Keio University, Tokyo, Japan, 2023-2025
+  - Advisor: Prof. Komei Sugiura
+- Engineering Degree, Ecole Centrale de Nantes, Nantes, France, 2021-2025
+  - Specialization: Artificial Intelligence
+  - First year's GPA : 3.7
+  - Second year's GPA : 3.83
+- 'Classes préparatoires', Lycée Gustave Eiffel, Bordeaux, France, 2019-2021
+  - A 2-Year intensive program preparing for the national competitive exams for entry to French schools of engineering.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+# Work experience
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- April 2023 - September 2023 : Machine Learning Intern
+  - Github University
+  - Duties includes: Updates and improvements to template
+  - Supervisor: The Users
 
-Publications
-======
+# Skills
+
+- Languages
+  - French : Native
+  - English : Fluent
+  - Japanese : Intermediate
+  - Spanish : Notions
+- Deep Learning with Python
+  - Sub-skill 2.1
+  - Sub-skill 2.2
+  - Sub-skill 2.3
+- Other
+  - Unity
+  - SQL
+  - C++
+  - Latex
+  - Git/GitHub
+
+# Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
