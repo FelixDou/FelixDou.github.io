@@ -23,9 +23,9 @@ redirect_from:
 # Work experience
 
 - April 2023 - September 2023 : Machine Learning Intern
-  - Github University
-  - Duties includes: Updates and improvements to template
-  - Supervisor: The Users
+  - R&D department at [Aubay](https://aubay.com/en/)
+  - Creation of a web application to automatically summarize a meeting
+  - Worked in a team of 6 members
 
 # Skills
 
@@ -34,15 +34,17 @@ redirect_from:
   - English : Fluent
   - Japanese : Intermediate
   - Spanish : Notions
-- Deep Learning with Python
-  - Sub-skill 2.1
-  - Sub-skill 2.2
-  - Sub-skill 2.3
+- Deep Learning with Pytorch or Jax
+  - eXplainable AI
+  - NLP
+  - Robotics
+  - Reinforcement Learning
+  - Image Recognition
 - Other
   - Unity
   - SQL
   - C++
-  - Latex
+  - LaTeX
   - Git/GitHub
 
 # Publications

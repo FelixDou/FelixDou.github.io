@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to my personal website!"
+title: "Nostalgia for the future"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-My name is Félix Doublet, and I am currently pursuing my passion for Artificial Intelligence through research at the [SMILAB lab](https://smilab.org/en/) at Keio University, where I am a Master's student. My journey in AI is driven by a curiosity to understand the intersection between human cognition and machine intelligence. This website serves as a window into my research, thoughts, and ongoing projects in the realm of AI.
+I am Félix Doublet from France, and I am currently pursuing my passion for Artificial Intelligence through research at the [SMILAB lab](https://smilab.org/en/) at Keio University, where I am a Master's student. My journey in AI is driven by a curiosity to understand the intersection between human cognition and machine intelligence. This website serves as a window into my research, thoughts, and ongoing projects in the realm of AI.
 
 ## Background
 
