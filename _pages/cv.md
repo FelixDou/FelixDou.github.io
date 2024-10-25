@@ -65,6 +65,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+My hobbies 
 ======
-* Currently signed in to 43 different slack teams
+* I played tennis for 12 years and still play from time to time
+* I watched more than 100 animes 
+* I was the treasurer of the [journal club](https://www.ecniouzes.fr) at my school
