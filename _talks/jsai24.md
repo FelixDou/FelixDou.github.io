@@ -10,4 +10,4 @@ location: "Hamamatsu, Japan"
 
 I presented my paper "C3-LRP: Visual Explanation Generation based on Layer-Wise Relevance Propagation for ResNet" at JSAI24.
 
-**Slides:** [Click here] (https://speakerdeck.com/keio_smilab/jsai24-c3-lrp-visual-explanation-generation-based-on-layer-wise-relevance-propagation-for-resnet)
+**Slides:** [Click here](https://speakerdeck.com/keio_smilab/jsai24-c3-lrp-visual-explanation-generation-based-on-layer-wise-relevance-propagation-for-resnet)
