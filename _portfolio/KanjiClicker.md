@@ -15,3 +15,5 @@ Gameplay: Click, Learn, and Unlock!
 </div>
 
 **Download:** [Click here](https://play.google.com/store/apps/details?id=com.GameForIT.com.KanjiClicker&hl=en)
+
+**Code:** [Click here](https://github.com/Kathgral/KanjiClicker)
