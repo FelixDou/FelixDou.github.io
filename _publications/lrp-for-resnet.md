@@ -11,7 +11,7 @@ paperurl: "https://arxiv.org/pdf/2407.09115"
 
 The black-box nature of neural network models sometimes masks the underlying logic of their inference processes. This opacity presents significant challenges in verifying the validity of the models’ predictions. Layer-wise Relevance Propagation (LRP) stands out as a well-established method that transparently traces the flow of a model's prediction backward through its architecture by backpropagating relevance scores. However, LRP has not fully considered the existence of a skip connection, and its application to the widely used ResNet architecture has not been thoroughly explored.
 
-![Method:](https://github.com/FelixDou/FelixDou.github.io/blob/86ba8bf5d0caf18d363e96d113f0b5fd5283bc2f/images/eye-catch.png)
+<p><img src="https://github.com/FelixDou/FelixDou.github.io/raw/86ba8bf5d0caf18d363e96d113f0b5fd5283bc2f/images/eye-catch.png" alt="Method" style="max-width: 100%; height: auto;"></p>
 
 **Project page:** [Click here](https://5ei74r0.github.io/lrp-for-resnet.page/)
 
