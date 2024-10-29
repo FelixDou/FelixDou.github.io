@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning for League of Legends"
-excerpt: "Champions Recommendation System for Lol using Machine Learning"
+excerpt: "Champions Recommendation System for LoL using Machine Learning"
 collection: portfolio
 ---
 
