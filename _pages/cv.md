@@ -15,8 +15,7 @@ redirect_from:
   - Advisor: Prof. Komei Sugiura
 - Engineering Degree, Ecole Centrale de Nantes, Nantes, France, 2021-2025
   - Specialization: Artificial Intelligence
-  - First year's GPA : 3.7
-  - Second year's GPA : 3.83
+  - GPA: 3.7 (Year 1), 3.83 (Year 2)
 - 'Classes préparatoires', Lycée Gustave Eiffel, Bordeaux, France, 2019-2021
   - A 2-Year intensive program preparing for the national competitive exams for entry to French schools of engineering.
 
@@ -24,8 +23,10 @@ redirect_from:
 
 - April 2023 - September 2023 : Machine Learning Intern
   - R&D department at [Aubay](https://aubay.com/en/)
-  - Creation of a web application to automatically summarize a meeting
-  - Worked in a team of 6 members
+  - Developed a web application for automatic meeting summarization using Python, Flask, and BERT models.
+  - Deployed the application on AWS with Docker.
+  - Collaborated with 6 team members using Agile methodology.
+  - Presented our work in front of 200 company's employees
 
 # Skills
 
@@ -62,6 +63,6 @@ Talks
   
 My hobbies 
 ======
-* I played tennis for 12 years and still play from time to time
-* I watched more than 100 animes 
-* I was the treasurer of the [journal club](https://www.ecniouzes.fr) at my school
+* I played tennis competitively for 12 years and still play from time to time
+* Avid anime enthusiast with over 100 titles watched
+* I was the treasurer of the [journal club](https://www.ecniouzes.fr) at Centrale Nantes
