@@ -20,3 +20,5 @@ I am especially interested in foundation models and their applications.
 ## My passions
 
 I am passionate about Japanese culture, and I have been learning Japanese for 3 years. I am also a big fan of sports, especially football, tennis and Formula One.
+
+<p><img src="https://github.com/FelixDou/FelixDou.github.io/raw/6381d981056f497581b667d0975b032e3dcab791/images/this-is-what-guys-want-right-sousou-no-frieren-v0-qft9c2pbwj2c1.jpg" alt="frieren" style="max-width: 100%; height: auto;"></p>
