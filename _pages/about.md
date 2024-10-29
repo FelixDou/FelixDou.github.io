@@ -15,7 +15,7 @@ I have a generalist engineering background from one of the best French engineeri
 
 ## Research interests
 
-I am especially interested in foundation models and their applications.
+I am especially interested in developing and understanding foundation models. I worked on eXplainable AI by developing a visual explanation generation method based on Layer-Wise Relevance Propagation for ResNet. I am now working on using offline reinforcement learning models for robotics applications.
 
 ## My passions
 
