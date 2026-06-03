@@ -1,0 +1,42 @@
+{% include base_path %}
+
+{% assign document_url = include.url %}
+{% assign document_label = include.label | default: "Document" %}
+{% assign document_type = include.type | default: document_url | downcase %}
+
+{% if document_url %}
+  {% if document_url contains "://" %}
+    {% assign preview_url = document_url %}
+  {% else %}
+    {% assign preview_url = document_url | prepend: site.baseurl %}
+  {% endif %}
+
+  {% if document_url contains "://" %}
+    {% assign absolute_preview_url = document_url %}
+  {% else %}
+    {% assign absolute_preview_url = document_url | prepend: base_path %}
+  {% endif %}
+
+  <section class="document-preview" aria-label="{{ document_label }} preview">
+    <div class="document-preview__header">
+      <h2>{{ document_label }}</h2>
+      <a class="btn btn--small" href="{{ preview_url }}">Open / Download</a>
+    </div>
+
+    {% if document_type contains ".ppt" or document_type contains "pptx" or document_type contains "powerpoint" %}
+      <iframe
+        class="document-preview__frame"
+        src="https://docs.google.com/gview?url={{ absolute_preview_url | uri_escape }}&embedded=true"
+        title="{{ document_label }} preview"
+        loading="lazy">
+      </iframe>
+    {% else %}
+      <object
+        class="document-preview__frame"
+        data="{{ preview_url }}"
+        type="application/pdf">
+        <p><a href="{{ preview_url }}">Open {{ document_label }}</a></p>
+      </object>
+    {% endif %}
+  </section>
+{% endif %}

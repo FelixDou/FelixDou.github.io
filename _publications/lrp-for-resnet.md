@@ -14,5 +14,3 @@ The black-box nature of neural network models sometimes masks the underlying log
 <p><img src="https://github.com/FelixDou/FelixDou.github.io/raw/86ba8bf5d0caf18d363e96d113f0b5fd5283bc2f/images/eye-catch.png" alt="Method" style="max-width: 100%; height: auto;"></p>
 
 **Project page:** [Click here](https://5ei74r0.github.io/lrp-for-resnet.page/)
-
-**Paper link:** [Click here](https://arxiv.org/pdf/2407.09115)
