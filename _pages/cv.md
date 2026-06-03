@@ -11,10 +11,12 @@ redirect_from:
 
 # Profile
 
-Machine learning researcher focused on robotics, reinforcement learning, foundation models, and explainable AI. My work combines model interpretability for computer vision with learning-based robotic decision making.
+First-year PhD student at Science Tokyo in Shinoda Lab, working on robotic manipulation using Vision-Language-Action (VLA) models. My broader interests include robotics, reinforcement learning, foundation models, and explainable AI.
 
 # Education
 
+- PhD, Shinoda Lab, Science Tokyo, Tokyo, Japan, 2026-present
+  - Research topic: robotic manipulation with Vision-Language-Action models
 - Master's Degree in the [SMILAB lab](https://smilab.org/en/), Keio University, Tokyo, Japan, 2023-2025
   - Advisor: Prof. Komei Sugiura
   - Research topics: explainable AI, reinforcement learning, robotics
@@ -25,6 +27,10 @@ Machine learning researcher focused on robotics, reinforcement learning, foundat
   - A 2-Year intensive program preparing for the national competitive exams for entry to French schools of engineering.
 
 # Research and work experience
+
+- 2026-present: PhD Research, Shinoda Lab, Science Tokyo
+  - Working on robotic manipulation using Vision-Language-Action models.
+  - Studying foundation-model-based approaches for embodied robotic agents.
 
 - 2023-2025: Master's Research, SMILAB, Keio University
   - Developed visual explanation methods based on Layer-Wise Relevance Propagation for ResNet.

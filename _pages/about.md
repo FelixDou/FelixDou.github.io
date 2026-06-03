@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Félix Doublet, a French machine learning researcher based in Tokyo. My work sits at the intersection of robotics, reinforcement learning, foundation models, and explainable AI.
+I am Félix Doublet, a French first-year PhD student at Science Tokyo, where I am part of Shinoda Lab. My current research focuses on robotic manipulation using Vision-Language-Action (VLA) models.
 
-I completed Master's research at the [SMILAB lab](https://smilab.org/en/) at Keio University, advised by Prof. Komei Sugiura. My research has covered visual explanation methods for ResNet models and learning-based approaches for robotic decision making.
+Before starting my PhD, I completed Master's research at the [SMILAB lab](https://smilab.org/en/) at Keio University, advised by Prof. Komei Sugiura. My research has covered visual explanation methods for ResNet models and learning-based approaches for robotic decision making.
 
 ## Background
 
@@ -17,7 +17,7 @@ I have a generalist engineering background from [Ecole Centrale de Nantes](https
 
 ## Research interests
 
-I am especially interested in building and understanding foundation models for embodied agents. My earlier work focused on explainable AI, including visual explanation generation based on Layer-Wise Relevance Propagation for ResNet. More recently, I have worked on reinforcement learning, world models, and recovery-oriented robotic policies.
+I am especially interested in building foundation models for embodied agents, with a current focus on VLA-based robotic manipulation. My earlier work focused on explainable AI, including visual explanation generation based on Layer-Wise Relevance Propagation for ResNet. I have also worked on reinforcement learning, world models, and recovery-oriented robotic policies.
 
 ## My passions
 
